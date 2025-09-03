@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+.env/
+.conda/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Data (don’t upload huge files)
+data/raw/
+data/interim/
+data/processed/
+*.pkl
+*.csv
+*.npy
+*.npz
+
+# Logs / results
+logs/
+*.log
+results/*.tmp
