@@ -12,7 +12,7 @@ Turn raw wearable sensor data (accelerometer + gyroscope) into **exercise classi
 
 ## Project Structure
 
-
+```
 
 Smart-Workout-Tracking-ML/
 ├─ src/
@@ -25,7 +25,7 @@ Smart-Workout-Tracking-ML/
 ├─ README.md
 ├─ .gitignore
 
-
+```
 
 ---
 
